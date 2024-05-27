@@ -1,0 +1,66 @@
+{
+  "sourceLanguage" : "de",
+  "strings" : {
+    "first" : {
+      "comment" : "-",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Irgendein ParentView Text."
+          }
+        },
+        "de-AT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Irgendein ParentView Text."
+          }
+        },
+        "de-CH" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Irgendein ParentView Text."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some ParentView text."
+          }
+        }
+      }
+    },
+    "second" : {
+      "comment" : "-",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dann noch Text im Subview."
+          }
+        },
+        "de-AT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dann noch Text im Subview."
+          }
+        },
+        "de-CH" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dann noch Text im Subview."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "And then some text in the Subview."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
