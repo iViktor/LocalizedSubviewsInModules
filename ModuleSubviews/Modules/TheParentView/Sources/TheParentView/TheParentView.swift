@@ -16,7 +16,7 @@ public struct TheParentView: View {
                 
             }, label: {
                 Label(
-                    title: { Text(titleKey, tableName: L.stringsCatalog) },
+                    title: { Text(titleKey, tableName: "strings") },
                     icon: { }
                 )
             })

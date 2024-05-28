@@ -13,8 +13,8 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(name: "Strings", path: "Strings"),
-        .package(name: "TheChildView", path: "TheChildView")
+        .package(name: "Strings", path: "../Strings"),
+        .package(name: "TheChildView", path: "../TheChildView")
     ],
     targets: [
         .target(

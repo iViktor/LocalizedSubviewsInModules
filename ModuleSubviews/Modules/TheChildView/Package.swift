@@ -12,7 +12,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(name: "Strings", path: "Strings")
+        .package(name: "Strings", path: "../Strings")
     ],
     targets: [
         .target(
